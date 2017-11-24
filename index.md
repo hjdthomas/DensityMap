@@ -9,11 +9,6 @@
 
 #### <a href="#section3"> 3. Feel satisfied at a job well done</a>
 
-
-# Subheading 1
-## Subheading 2
-### Subheading 3
-
 This is some introductory text for your tutorial. We’re are going learn how to produce a density map, how to download GBIF data, and probably something else I’ll fill in later.
 
 You can get all of the resources for this tutorial from <a href="https://github.com/ourcodingclub" target="_blank">this github repository</a>. Clone and download the repo as a zip file, then unzip it.
